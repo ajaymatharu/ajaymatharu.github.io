@@ -1,0 +1,16 @@
+# Project template
+- layout: top-middle
+  name: Tweet Old Post
+  quote: >
+    Tweets old wordpress posts
+  description: | # this will include new lines to allow paragraphs
+    Tweet Old Post helps you to keeps your old posts alive by tweeting about them and driving more traffic to them from twitter. 
+    It also helps you to promote your content. You can set time and no of tweets to post to drive more traffic.
+
+# Project template
+- layout: top-middle
+  name: Buffer Old Post
+  quote: >
+    Adds old wordpress posts to buffer queue
+  description: | # this will include new lines to allow paragraphs
+    This plugin helps you to keeps your old posts alive by posting it to buffer and driving more traffic to them from buffer. It also helps you to promote your content. You can set time and no of posts to post to drive more traffic.

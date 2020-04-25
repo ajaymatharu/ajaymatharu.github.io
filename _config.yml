@@ -1,0 +1,115 @@
+# Site
+repository: ajaymatharu/ajaymatharu.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Ajay Matharu
+title: Full Stack Developer
+# email: Your email (optional)
+# phone: Your phone number (optional)
+website: https://www.ajaymatharu.com
+
+darkmode: true
+
+# Social links
+twitter_username: matharuajay
+github_username:  matharuajay
+facebook_username: matharuajay
+instagram_username: ajay.matharu
+linkedin_username: matharuajay
+pinterest_username: matharuajay
+
+resume: https://www.ajaymatharu.com/ajaymatharu.pdf
+
+# Additional icon links
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+gtm: "GTM-NBTG7B"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: /assets/img/avatar.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Every brand has stories to tell—stories that will not only engage, inform, surprise, delight, and impact their audience, but that will also deliver on measurable business goals. And I help brand tell their stories, using various technologies.
+
+  I build and lead teams that build high-quality web sites and web applications that fits the unique identity of brand and meets their objectives.
+
+  * Having more than 10 Years of IT experience in analysis, design, development, support, and deployment.
+  * Have also played different roles in the projects - Project Manager, Team Lead, Developer and Tester.
+  * Involved in Requirement gathering, Coding and Development, Database Designing, Designing Architecture
+  * Ability to work in tight schedules and efficient in meeting deadlines.
+  * Played a key role in client communication and interaction.
+  * Good Communication skills and a team player.
+  * Strong at Debugging and troubleshooting applications.
+  * Ability to understand browser specific compatibility issues.
+  * Strong at finding workarounds and fixing issues.
+  * Good at understanding and implementing different Technologies/Techniques
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  **My specialties include**
+  * .Net (C#.net, VB.Net , WCF, Azure, Windows Services, Web Services, Web API)
+  * WEB (ASP.Net, HTML 5, CSS, Javascript, JQuery, NodeJS, PHP, GO, RESTful Services, Elasticsearch)
+  * RDBMS Databases (SQL, MySQL)
+  * NoSQL (Redis and MongoDB)
+  * Source Controls (TFS, VSS, GIT, SVN)
+  * Frameworks/Applications (Sharepoint, Sitefinity, Wordpress, BlogEngine.net, Bootstrap)
+  * Monitoring Tools (New Relic, NagiOS, App Dynamics, Splunk)
+  * Servers (IIS, WAMP, XAMP)
+  * Data (XML, JSON)
+
+  **Things I am good at**
+  * Problem solving
+  * Taking Responsibilities
+  * Understanding and implementing new technologies
+  * Application architecture designing
+  * Using Shortcuts, tools and utilities
+  * Managing Resources
+  * Listening and Communication
+  * Quick Learner
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ".jekyll-cache"
+  ]
