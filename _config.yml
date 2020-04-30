@@ -8,7 +8,7 @@ title: Full Stack Developer
 # email: Your email (optional)
 # phone: Your phone number (optional)
 website: https://www.ajaymatharu.com
-
+blog: https://blog.ajaymatharu.com/
 darkmode: true
 
 # Social links
@@ -77,7 +77,7 @@ footer_show_references: false
 sass:
   sass_dir: _sass
   style: compressed
-  
+
 plugins:
  - jekyll-seo-tag
 
