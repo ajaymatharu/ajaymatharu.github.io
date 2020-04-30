@@ -16,15 +16,17 @@
 
       {%- include about.html -%}
 
-      {%- if site.data.projects.size > 0 -%}
-        {%- include projects.html -%}
-      {%- endif -%}
-
       {%- if site.data.experience.size > 0 -%}
         {%- include experience.html -%}
       {%- endif -%}
 
+      {%- if site.data.projects.size > 0 -%}
+        {%- include projects.html -%}
+      {%- endif -%}
+
+      {%comment%}
       {%- include skills.html -%}
+      {%endcomment%}
 
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}

@@ -3,7 +3,141 @@
   company: Block One
   link: 
   job_title: Full Stack Developer
-  dates: Date Range (eg. Mar 2019 - present)
-  quote: >
-   
-  description: | # this will include new lines to allow paragraphs
+  dates: Mar 2019 - present
+  type: experience
+  responsibilities: | # this will include new lines to allow paragraphs
+    - Designing and Developing APIs
+    - Improve Application and Database performance
+    - Debug and Troubleshoot application and deployment process
+    - Design and Architect the infrastructure 
+    - Provide full end to end infrastructure support
+    - Automate application deployment by implementing CI/CD
+    - Secure the appliction and infrastructure 
+    - Learn, evaluate and implement new technologies
+    - Work extensively on AWS 
+    - Sprint planning and task assignment
+    - Work with different teams
+  technologies: |
+    - terraform, packer, consul
+  projects:
+    - title: testnet
+      description: something on testnet
+    - title: explorer
+      description: something on explorer
+
+- layout: left
+  company: ii5 Technologies Pvt. Ltd.
+  link: 
+  job_title: Project Manager
+  dates: Dec 2013 - Feb 2019
+  type: experience
+  responsibilities: | # this will include new lines to allow paragraphs
+    - Work & train team on open source technologies and javascript frameworks
+    - Monitor Website, Applications, and Servers
+    - Design & Improve Website architecture
+    - Understand requirements and estimate timeframe
+    - Work on complex part of application & website
+    - Troubleshoot and debug complex scenarios
+    - Co-ordinate and manage team in India & Hong Kong
+    - Part of cultural team in organizing employment engagement activities
+  technologies: |
+    - Framework 3.5, 4.0, SQL 2008, C#, XML, JavaScript, CSS, JQuery, SVN, Lucene Search, SVG
+  projects:
+    - title: okay.com
+      description: Hong Kong based real estate website and its Admin module, built on .Net and SQL
+    - title: Bookie
+      description: Cross Platform Betting application built using Electron, React JS & Blockchain  
+
+- layout: left
+  company: BookMyShow.com
+  link: 
+  job_title: Senior Manager - Technology
+  dates: July 2012 - Dec 2013
+  type: experience
+  responsibilities: | # this will include new lines to allow paragraphs
+    - Involved in Managing and Developing web applications
+    - Learn & implement open source technologies like NodeJs, Redis, Mongo, etc.
+    - Work on Complex SQL Queries
+    - Understanding requirements and estimating efforts
+    - Perform timely code review and optimizations
+    - Managing work and resources in Bangalore office.
+  technologies: |
+    - Frameworks 3.5, 4.0, SQL 2008, C#, XML, JavaScript, CSS, JQuery, TFS, Redis, Mongo, NodeJS
+  projects:
+    - title: Backoffice & Reporting
+      description: Deals with day to day activities and reporting system
+    - title: TSM (Transaction Storage Module)
+      description: API based model for transactions. Converting SQL stored procedure logic into NodeJS  
+
+- layout: left
+  company: Idealake Information Technologies Pvt. Ltd.
+  link: 
+  job_title: Team Lead - Technology
+  dates: Dec 2009 - Jul 2012
+  type: experience
+  responsibilities: | # this will include new lines to allow paragraphs
+    - Manage and Develop various application in ASP.Net and SQL
+    - Take care of code review and optimization
+    - Attend meetings with various clients and consult them technically
+    - Visit clients and understand their requirements and estimate
+    - Managed resources at client side
+    - Help team members to debug and troubleshoot issues
+    - Train team members to Improve technical skills
+    - Co-ordinate with Design team, CS team, Clients and QA to get work done
+  technologies: |
+    - Frameworks 1.1, 2.0, 3.5,4.0, SQL 2000/2005/2008, C#, XML, JavaScript, CSS, JQuery, Classic ASP, VSS, Sitefinity, Telerik Controls.
+  projects:
+    - title: IIFL Backoffice
+      description: Backoffice application for IIFL. 
+    - title: Tamarind (WCF API)
+      description: This API enables its B2B clients to search for and book rooms in hotels as provided by Tamarind Tours.
+    - title: Reliance Salary Advantage (Cloud application)
+      description: Application that allows subscription to various SIP schemes. Built on Microsoft Azure, ADFS, SSO.
+    - title: Maintenance and other projects
+      description: Fame Cinemas, Big Video, Big Music, Cinemax, Charak, DSP Blackrock, Communicate2, Quantum Mutual Fund, Yashraj films and Reliance Property Solutions, ICICI Securities, Dharma Productions.
+
+- layout: left
+  company: OSS Soft Tech
+  link: 
+  job_title: Team Lead - Technology
+  dates: Aug 2009 - Nov 2009
+  type: experience
+  responsibilities: | # this will include new lines to allow paragraphs
+    - Design wire-frames for team members
+    - Perform code review
+    - Develop application using ASP.Net and SQL
+    - Assign and explain task to team members
+    - Help tech leads to improve application architecture
+  technologies: |
+    - Framework 3.5, SQL 2005, VB.Net, XML, JavaScript, CSS, JQuery, VSS.
+  projects:
+    - title: Hotel Management
+      description: 
+    - title: Mobile Recharge
+      description: 
+
+- layout: left
+  company: Magnet Technologies Pvt. Ltd.
+  link: 
+  job_title: Team Lead - Technology
+  dates: Feb 2007 - Aug 2009
+  type: experience
+  responsibilities: | # this will include new lines to allow paragraphs
+    - Develop applications using PHP, ASP.Net, SQL & MySQL, Wordpress
+    - Communicating with Indian and offshore clients and understanding requirements from them
+    - Analyzing requirements and Estimating projects
+    - Training & Grooming team members for soft skills
+    - Learn & implement new technologies, Tools, and CMS
+    - Coordinating with HR for office activities
+    - Co-ordinate & assist with other teams for building cross team applications
+  technologies: |
+    - Frameworks 2.0, 3.5, SQL 2000/2005, C#, VB.Net, XML, JavaScript, CSS, JQuery, Classic ASP, BlogEngine, PHP, Wordpress, Sharepoint, Compact Framework, Active Sync, Plesk.
+  projects:
+    - title: DDSL
+      description: An online site builder with ability to publish as domain or sub domain
+    - title: LROnline, LRSync, WorryNote, eNotes
+      description: Sharepoint applications for kids and teachers
+    - title: TiE Stree Shakti. Enterprising India
+      description: Site for entrepreneurs.
+    - title: Other projects
+      description: Metal Bulletin, MAPP, DataFarmer , ESS (Employee Scheduling System), JuniorStats, CommunityCanvas

@@ -112,6 +112,21 @@
   }
 }
 
+.experience-container {
+  .layout {
+    .sub-header {
+      font-weight: 900;
+      font-size: 1.6rem;
+    }
+    .sub-sub-header {
+      font-weight: 700;
+    }
+    p, ul {
+      font-size: 1.4rem
+    }
+  }
+}
+
 .layout-right, .layout-top-right {
   .details {
     text-align: right;
