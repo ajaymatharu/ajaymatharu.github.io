@@ -1,17 +1,20 @@
 # More Template
 stack: |
-    * .Net (C#.net, VB.Net , WCF, Azure, Windows Services, Web Services, Web API)
-    * WEB (ASP.Net, HTML 5, CSS, Javascript, JQuery, NodeJS, PHP, RESTful Services, PM2, Jekyll, ReactJs)
-    * RDBMS Databases (SQL, MySQL, PostgreSQL)
-    * NoSQL (Redis and MongoDB)
-    * Source Controls (TFS, VSS, GIT, SVN)
-    * Frameworks/Applications (Sharepoint, Sitefinity, Wordpress, BlogEngine.net, Bootstrap)
-    * Monitoring Tools (New Relic, NagiOS, App Dynamics, Splunk)
-    * Servers (IIS, WAMP, XAMP, Nginx)
-    * Data (XML, JSON)
-    * Cloud (AWS, GCP)
-    * Security (Fail2Ban, ZPA, Qualys, CIS Compliance, ScaleFt)
-    * Blockchain (EOSIO)
-    * Infrastructure (Terraform, Ansible, Packer, Consul)
-    * CI/CD (Jenkins, Buildkite)
-    * DNS Management
+  | Type                                 | Technology / Tool / Language / Framework / Library      |
+  | ------------------------------------ | ------------------------------------------------------------------------ |
+  | .Net                                 | C#.net, VB.Net , WCF, Azure, Windows Services, Web Services, Web API     |
+  | Web                                  | ASP.Net, HTML 5, CSS, Javascript, JQuery, NodeJS, PHP, RESTful Services, PM2, Jekyll, ReactJs, Jinja2, python, typescript                                     |
+  | Web Servers                          | IIS, WAMP, Nginx, Apache                                                 |
+  | Development Tools                    | Microsoft Visual, Telerik controls, Visual Studio Code, Sublime Text     |
+  | .Net Framework versions              | 1.1, 2.0, 3.5, 4.0                                                       |
+  | Databases                            | SQL Server 2000/2005/2008, Redis, Mongo, MySQL, PostgreSQL               |
+  | Source Control                       | Visual Source Safe, SVN, TFS, GIT                                        |
+  | Data                                 | XML, JSON, CSV, YML                                                      |
+  | Applications                         | Sharepoint, WordPress, Sitefinity, BlogEngine .Net                       |
+  | Control Panels                       | Plesk, Cpanel                                                            |
+  | Monitoring Tools                     | New Relic, Nagios, Splunk                                                |
+  | Security                             | ZPA, Qualys, Fail2Ban, ScaleFT, CIS Hardening                            |
+  | Cloud                                | AWS, GCP                                                                 |
+  | Infrastructure                       | Terraform, Ansible, Packer, Consul                                       |
+  | Automation (CI/CD)                   | Jenkins, Buildkite                                                       |
+  | Blockchain                           | EOSIO 
