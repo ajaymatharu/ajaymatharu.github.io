@@ -18,7 +18,7 @@
     - Sprint planning and task assignment
     - Work with different teams
   technologies: |
-    - terraform, packer, consul
+    - AWS, EOSIO, Terraform, Ansible, Consul, Packer, ScaleFT, ZPA, Qualys, Buildkite, Postfix, Fail2Ban, Nginx, Redis, Postgres, MongoDB, PM2, Nodejs 
   projects:
     - title: EOSIO Testnet
       description: Public facing EOSIO testing network 
