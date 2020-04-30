@@ -28,11 +28,16 @@
       {%- include skills.html -%}
       {%endcomment%}
 
+      {%- if site.data.tech.size > 0 -%}
+        {%- include tech.html -%}
+      {%- endif -%}
+
+
       {%- if site.data.education.size > 0 -%}
         {%- include education.html -%}
       {%- endif -%}
 
-      {%- if site.more_content -%}
+      {%- if site.data.more.size > 0 -%}
         {%- include more.html -%}
       {%- endif -%}
 

@@ -1,0 +1,17 @@
+# More Template
+stack: |
+    * .Net (C#.net, VB.Net , WCF, Azure, Windows Services, Web Services, Web API)
+    * WEB (ASP.Net, HTML 5, CSS, Javascript, JQuery, NodeJS, PHP, RESTful Services, PM2, Jekyll, ReactJs)
+    * RDBMS Databases (SQL, MySQL, PostgreSQL)
+    * NoSQL (Redis and MongoDB)
+    * Source Controls (TFS, VSS, GIT, SVN)
+    * Frameworks/Applications (Sharepoint, Sitefinity, Wordpress, BlogEngine.net, Bootstrap)
+    * Monitoring Tools (New Relic, NagiOS, App Dynamics, Splunk)
+    * Servers (IIS, WAMP, XAMP, Nginx)
+    * Data (XML, JSON)
+    * Cloud (AWS, GCP)
+    * Security (Fail2Ban, ZPA, Qualys, CIS Compliance, ScaleFt)
+    * Blockchain (EOSIO)
+    * Infrastructure (Terraform, Ansible, Packer, Consul)
+    * CI/CD (Jenkins, Buildkite)
+    * DNS Management

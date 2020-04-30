@@ -39,21 +39,21 @@ gtm: "GTM-NBTG7B"
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /assets/img/avatar.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Every brand has stories to tell—stories that will not only engage, inform, surprise, delight, and impact their audience, but that will also deliver on measurable business goals. And I help brand tell their stories, using various technologies.
+# about_content: | # this will include new lines to allow paragraphs
+#   Every brand has stories to tell—stories that will not only engage, inform, surprise, delight, and impact their audience, but that will also deliver on measurable business goals. And I help brand tell their stories, using various technologies.
 
-  I build and lead teams that build high-quality web sites and web applications that fits the unique identity of brand and meets their objectives.
+#   I build and lead teams that build high-quality web sites and web applications that fits the unique identity of brand and meets their objectives.
 
-  * Having more than 10 Years of IT experience in analysis, design, development, support, and deployment.
-  * Have also played different roles in the projects - Project Manager, Team Lead, Developer and Tester.
-  * Involved in Requirement gathering, Coding and Development, Database Designing, Designing Architecture
-  * Ability to work in tight schedules and efficient in meeting deadlines.
-  * Played a key role in client communication and interaction.
-  * Good Communication skills and a team player.
-  * Strong at Debugging and troubleshooting applications.
-  * Ability to understand browser specific compatibility issues.
-  * Strong at finding workarounds and fixing issues.
-  * Good at understanding and implementing different Technologies/Techniques
+#   * Having more than 10 Years of IT experience in analysis, design, development, support, and deployment.
+#   * Have also played different roles in the projects - Project Manager, Team Lead, Developer and Tester.
+#   * Involved in Requirement gathering, Coding and Development, Database Designing, Designing Architecture
+#   * Ability to work in tight schedules and efficient in meeting deadlines.
+#   * Played a key role in client communication and interaction.
+#   * Good Communication skills and a team player.
+#   * Strong at Debugging and troubleshooting applications.
+#   * Ability to understand browser specific compatibility issues.
+#   * Strong at finding workarounds and fixing issues.
+#   * Good at understanding and implementing different Technologies/Techniques
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -65,27 +65,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  **My specialties include**
-  * .Net (C#.net, VB.Net , WCF, Azure, Windows Services, Web Services, Web API)
-  * WEB (ASP.Net, HTML 5, CSS, Javascript, JQuery, NodeJS, PHP, GO, RESTful Services, Elasticsearch)
-  * RDBMS Databases (SQL, MySQL)
-  * NoSQL (Redis and MongoDB)
-  * Source Controls (TFS, VSS, GIT, SVN)
-  * Frameworks/Applications (Sharepoint, Sitefinity, Wordpress, BlogEngine.net, Bootstrap)
-  * Monitoring Tools (New Relic, NagiOS, App Dynamics, Splunk)
-  * Servers (IIS, WAMP, XAMP)
-  * Data (XML, JSON)
-
-  **Things I am good at**
-  * Problem solving
-  * Taking Responsibilities
-  * Understanding and implementing new technologies
-  * Application architecture designing
-  * Using Shortcuts, tools and utilities
-  * Managing Resources
-  * Listening and Communication
-  * Quick Learner
+#more_content: | # this will include new lines to allow paragraphs
+  
 # Footer
 footer_show_references: false
 
@@ -96,7 +77,7 @@ footer_show_references: false
 sass:
   sass_dir: _sass
   style: compressed
-
+  
 plugins:
  - jekyll-seo-tag
 
