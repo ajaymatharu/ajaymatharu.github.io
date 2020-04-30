@@ -1,7 +1,7 @@
 # Experience template
 - layout: left
   company: Block One
-  link: 
+  link: https://block.one
   job_title: Full Stack Developer
   dates: Mar 2019 - present
   type: experience
@@ -20,10 +20,12 @@
   technologies: |
     - terraform, packer, consul
   projects:
-    - title: testnet
-      description: something on testnet
-    - title: explorer
-      description: something on explorer
+    - title: EOSIO Testnet
+      description: Public facing EOSIO testing network 
+    - title: Elemental Battles
+      description: Tutorial that teaches the process of creating blockchain based dApp
+    - title: Explorer
+      description: GUI to help in local development of EOSIO based applications
 
 - layout: left
   company: ii5 Technologies Pvt. Ltd.
@@ -50,7 +52,7 @@
 
 - layout: left
   company: BookMyShow.com
-  link: 
+  link: https://bookmyshow.com
   job_title: Senior Manager - Technology
   dates: July 2012 - Dec 2013
   type: experience
