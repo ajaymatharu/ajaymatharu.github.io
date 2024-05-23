@@ -1,8 +1,7 @@
 # Education Template
-- layout: left
-  name: Mumbai University
-  dates: 2003 - 2006
-  qualification: B.Sc Computer Science
+# - layout: left
+#   name: Mumbai University
+#   qualification: B.Sc Computer Science
   # quote: >
   #   Short institution or course description (optional)
   # description: | # this will include new lines to allow paragraphs
